@@ -4,10 +4,10 @@ This is the implementation of Tetris game, coding in Python.
 
 Need Python3, NumPy to installed.
 
-* 'tetris_pygame' is the main application
+* 'TetrisMain.py' is the main application
 
 ### Play manually
-By playing manually, open the tetris_pygame file:
+By playing manually, open the TetrisMain.py file:
 
 
 ### Play rules
